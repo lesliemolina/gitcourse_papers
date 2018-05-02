@@ -27,3 +27,6 @@ Here we conclude that the model is valid
 
 # Figures
 figures here
+
+# Acknowledgements 
+Thanks to funding body for dosh, supervisor for advice, etc.
