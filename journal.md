@@ -2,7 +2,7 @@
 Measurements of secondary organic aerosol over west Africa
 
 # Authors 
-Leslie Molina
+Leslie Molina, Third author name
 
 # Introduction
 We present here aircraft measurements of SOA over Niger.
