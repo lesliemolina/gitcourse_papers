@@ -13,3 +13,6 @@ Jim HAywood (2000) made aircraft measurements over the Sahel, focussing on radio
 
 # Simulations
 John ran his atmospheric model to simulate SOA formation. 
+
+# Methodology
+Measurements were made using an AMS, as described in Allan et al 2003. 
