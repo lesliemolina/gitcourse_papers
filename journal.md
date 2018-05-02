@@ -1,8 +1,9 @@
 # Title
-Measurements of secondary organic aerosol over west Africa
+Measurement-model comparison of secondary organic aerosol formation over west Africa
 
 # Authors 
 Leslie Molina
+Joe Bloggs
 
 # Introduction
 We present here aircraft measurements of SOA over Niger, using an Aerodyne aerosol mass spectrometer ( Allan, 2004).
