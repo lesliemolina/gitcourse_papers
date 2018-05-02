@@ -19,3 +19,6 @@ Measurements were made using an AMS, as described in Allan et al 2003.
 
 # Results
 These results show x, y, z
+
+#Conclusions
+AMS is proven to be useful
