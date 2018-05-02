@@ -6,8 +6,8 @@ Leave this til last because it's hardest to write
 Measurement-model comparison of secondary organic aerosol formation over west Africa
 
 # Authors 
-Leslie Molina
-Joe Bloggs
+Leslie Molina, UoM
+Joe Bloggs, U of Birmingham
 
 # Introduction
 We present here aircraft measurements of SOA over Niger, using an Aerodyne aerosol mass spectrometer ( Allan, 2004).
