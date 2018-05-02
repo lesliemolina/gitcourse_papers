@@ -24,3 +24,6 @@ These simulations have proven the utility of the model comparison.
 
 # Conclusions
 Here we conclude that the model is valid
+
+# Figures
+figures here
